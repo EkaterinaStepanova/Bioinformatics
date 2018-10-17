@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\bioinformatics\pattern_in_genome\pattern_in_genome\source.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+  Pattern_In_Genome.vcxproj -> D:\Bioinformatics\Pattern_In_Genome\Debug\Pattern_In_Genome.exe
+  Pattern_In_Genome.vcxproj -> D:\Bioinformatics\Pattern_In_Genome\Debug\Pattern_In_Genome.pdb (Partial PDB)

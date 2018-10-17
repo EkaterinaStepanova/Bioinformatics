@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\bioinformatics\reverse_complement\reverse_complement\source.cpp(14): warning C4715: reverse: значение возвращается не при всех путях выполнения
+  Reverse_complement.vcxproj -> D:\Bioinformatics\Reverse_complement\Debug\Reverse_complement.exe
+  Reverse_complement.vcxproj -> D:\Bioinformatics\Reverse_complement\Debug\Reverse_complement.pdb (Partial PDB)

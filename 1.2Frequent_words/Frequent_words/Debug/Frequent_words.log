@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\bioinformatics\frequent_words\frequent_words\source.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+d:\bioinformatics\frequent_words\frequent_words\source.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+  Frequent_words.vcxproj -> D:\Bioinformatics\Frequent_words\Debug\Frequent_words.exe
+  Frequent_words.vcxproj -> D:\Bioinformatics\Frequent_words\Debug\Frequent_words.pdb (Partial PDB)
