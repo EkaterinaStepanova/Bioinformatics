@@ -1,0 +1,7 @@
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\obj\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.csprojAssemblyReference.cache
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\obj\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.csproj.CoreCompileInputs.cache
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\bin\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.exe.config
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\bin\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.exe
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\bin\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.pdb
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\obj\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.exe
+D:\Bioinformatics\3.3_Leaderboard Cyclopeptide Sequencing Problem\3.3_Leaderboard Cyclopeptide Sequencing Problem\obj\Debug\3.3_Leaderboard Cyclopeptide Sequencing Problem.pdb

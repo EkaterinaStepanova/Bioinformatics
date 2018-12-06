@@ -1,0 +1,6 @@
+﻿  2.2.Peptide_Encoding_Problem.cpp
+d:\bioinformatics\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+d:\bioinformatics\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+d:\bioinformatics\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+d:\bioinformatics\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem\2.2.peptide_encoding_problem.cpp(80): warning C4715: reverse: значение возвращается не при всех путях выполнения
+  2.2.Peptide_Encoding_Problem.vcxproj -> D:\Bioinformatics\2.2.Peptide_Encoding_Problem\Debug\2.2.Peptide_Encoding_Problem.exe
