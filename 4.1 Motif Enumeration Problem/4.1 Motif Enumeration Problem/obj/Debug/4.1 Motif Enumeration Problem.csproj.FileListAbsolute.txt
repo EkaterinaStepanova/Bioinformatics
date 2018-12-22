@@ -1,0 +1,7 @@
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\bin\Debug\4.1 Motif Enumeration Problem.exe.config
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\bin\Debug\4.1 Motif Enumeration Problem.exe
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\bin\Debug\4.1 Motif Enumeration Problem.pdb
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\obj\Debug\4.1 Motif Enumeration Problem.csprojAssemblyReference.cache
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\obj\Debug\4.1 Motif Enumeration Problem.csproj.CoreCompileInputs.cache
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\obj\Debug\4.1 Motif Enumeration Problem.exe
+D:\Bioinformatics\4.1 Motif Enumeration Problem\4.1 Motif Enumeration Problem\obj\Debug\4.1 Motif Enumeration Problem.pdb

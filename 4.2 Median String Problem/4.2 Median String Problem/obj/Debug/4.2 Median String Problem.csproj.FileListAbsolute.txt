@@ -1,0 +1,7 @@
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\bin\Debug\4.2 Median String Problem.exe.config
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\bin\Debug\4.2 Median String Problem.exe
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\bin\Debug\4.2 Median String Problem.pdb
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\obj\Debug\4.2 Median String Problem.csprojAssemblyReference.cache
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\obj\Debug\4.2 Median String Problem.csproj.CoreCompileInputs.cache
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\obj\Debug\4.2 Median String Problem.exe
+D:\Bioinformatics\4.2 Median String Problem\4.2 Median String Problem\obj\Debug\4.2 Median String Problem.pdb
